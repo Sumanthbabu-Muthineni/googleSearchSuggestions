@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.suggestion-icon {
+  margin-top: 20px;
+  width: 20px;
+  height: 20px;
+  
+}
